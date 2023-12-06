@@ -1,0 +1,16 @@
+.blocks {
+    border: 4px solid #000000;
+    padding: 15px;
+    margin: 10px 0;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  
+  .blocks h2 {
+    color: #333;
+  }
+  
+  .blocks p {
+    color: #666;
+  }
+  
